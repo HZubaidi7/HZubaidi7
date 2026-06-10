@@ -3,11 +3,15 @@
 <!-- ============================================ -->
 
 <p align="center">
-  <img src="photo_5278770112984981033_y.jpg" alt="Hussein Al-Zubaidi Logo 1" width="350" />
+  <img src="photo_5278770112984981033_y.jpg" alt="Hussein Al-Zubaidi Logo" width="400" />
+  <br/>
+  <sub><strong>🚀 Hussein Al-Zubaidi | Software Engineer</strong></sub>
 </p>
 
 <p align="center">
   <img src="download%20(2).jpg" alt="Hussein Al-Zubaidi Logo 2" width="250" />
+  <br/>
+  <sub><strong>⚡ Backend Architect | AI Builder</strong></sub>
 </p>
 
 <p align="center">
