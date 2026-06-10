@@ -38,7 +38,7 @@
         <strong>⚡ Hussein Al-Zubaidi</strong><br/>
         <em>"Engineering the unbreakable, one line at a time"</em><br/><br/>
         📍 Iraq / Remote Worldwide<br/>
-        💼 Senior Backend Architect<br/>
+        💼 Software Engineer<br/>
         🎯 Mission: Build systems that scale infinitely<br/>
         🔐 Security-first mindset | 🚀 Performance obsessed
       </td>
@@ -51,7 +51,7 @@
 <!-- ============================================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=60&lines=%3E+sudo+whoami;Hussein+Al-Zubaidi;%3E+cat+/etc/role;Senior+Software+Engineer;%3E+echo+%24MISSION;Engineering+the+unbreakable" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=60&lines=%3E+sudo+whoami;Hussein+Al-Zubaidi;%3E+cat+/etc/role;Software+Engineer;%3E+echo+%24MISSION;Engineering+the+unbreakable" alt="Typing SVG" />
 </p>
 
 <!-- ============================================ -->
@@ -123,8 +123,8 @@
 ```python
 class HusseinAlZubaidi(SoftwareEngineer):
     def __init__(self):
-        self.role = "Senior Backend Architect"
-        self.experience = "5+ years"
+        self.role = "Software Engineer"
+        self.experience = "Since 2023"
         self.mission = "Build unbreakable, scalable systems"
         self.creed = "Code is temporary, architecture is forever"
         self.location = "Iraq / Remote Worldwide"
