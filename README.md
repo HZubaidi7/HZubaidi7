@@ -124,7 +124,7 @@
 class HusseinAlZubaidi(SoftwareEngineer):
     def __init__(self):
         self.role = "Software Engineer"
-        self.experience = "Since 2023"
+        self.experience = "Since 2022"
         self.mission = "Build unbreakable, scalable systems"
         self.creed = "Code is temporary, architecture is forever"
         self.location = "Iraq / Remote Worldwide"
