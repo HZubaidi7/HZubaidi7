@@ -3,32 +3,47 @@
 <!-- ============================================ -->
 
 <p align="center">
-  <img src="photo_5278770112984981033_y.jpg" alt="Hussein Al-Zubaidi Logo" width="400" />
-  <br/>
-  <sub><strong>🚀 Hussein Al-Zubaidi | Software Engineer</strong></sub>
+  <table border="0">
+    <tr>
+      <td align="center" width="400">
+        <img src="photo_5278770112984981033_y.jpg" alt="Hussein Al-Zubaidi Logo" width="350" />
+      </td>
+      <td align="left" width="500">
+        <samp>
+          <br/>
+          ╔══════════════════════════════════════════════════════════════════╗
+          ║                                                                  ║
+          ║                    </> HUSSEIN AL-ZUBAIDI </>                     ║
+          ║                                                                  ║
+          ║                      ░░░░░ SOFTWARE ENGINEER ░░░░░                ║
+          ║                                                                  ║
+          ║               ⎈ System Architect | Backend Specialist            ║
+          ║               ⎆ API Craftsman     | AI Builder                   ║
+          ║                                                                  ║
+          ╚══════════════════════════════════════════════════════════════════╝
+          <br/>
+        </samp>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
-  <img src="download%20(2).jpg" alt="Hussein Al-Zubaidi Logo 2" width="250" />
-  <br/>
-  <sub><strong>⚡ Backend Architect | AI Builder</strong></sub>
-</p>
-
-<p align="center">
-  <samp>
-    <br/>
-    ╔════════════════════════════════════════════════════════════════════════════╗
-    ║                                                                            ║
-    ║                         </> HUSSEIN AL-ZUBAIDI </>                          ║
-    ║                                                                            ║
-    ║                           ░░░░░ SOFTWARE ENGINEER ░░░░░                      ║
-    ║                                                                            ║
-    ║                    ⎈ System Architect | Backend Specialist                 ║
-    ║                    ⎆ API Craftsman     | AI Builder                        ║
-    ║                                                                            ║
-    ╚════════════════════════════════════════════════════════════════════════════╝
-    <br/>
-  </samp>
+  <table border="0">
+    <tr>
+      <td align="center" width="300">
+        <img src="download%20(2).jpg" alt="Hussein Al-Zubaidi Logo 2" width="200" />
+      </td>
+      <td align="left" width="600">
+        <strong>⚡ Hussein Al-Zubaidi</strong><br/>
+        <em>"Engineering the unbreakable, one line at a time"</em><br/><br/>
+        📍 Iraq / Remote Worldwide<br/>
+        💼 Senior Backend Architect<br/>
+        🎯 Mission: Build systems that scale infinitely<br/>
+        🔐 Security-first mindset | 🚀 Performance obsessed
+      </td>
+    </tr>
+  </table>
 </p>
 
 <!-- ============================================ -->
