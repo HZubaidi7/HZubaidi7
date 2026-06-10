@@ -1,70 +1,63 @@
-class HusseinAlZubaidi(SoftwareEngineer):
-    """
-    Senior Backend Engineer | System Architect | AI Integrator
-    """
+# 🧠 Hussein Al-Zubaidi  
+### 💻 Senior Backend Engineer | System Architect | AI Integrator  
 
-    def __init__(self):
-        self.role = "Senior Backend Engineer / System Architect"
-        self.experience = "5+ years (Backend & Distributed Systems)"
-        self.mission = "Design scalable, resilient, and high-performance systems"
-        self.principle = "Architecture > Code"
-        self.location = "Iraq | Remote Worldwide"
-        self.availability = "Open to Freelance & Full-Time Opportunities"
+---
 
-    def core_expertise(self):
-        return {
-            "backend_engineering": [
-                "FastAPI", "Django", "Spring Boot", "Node.js", "NestJS"
-            ],
-            "system_design": [
-                "Microservices Architecture",
-                "Event-Driven Systems",
-                "Scalable Distributed Systems"
-            ],
-            "databases": [
-                "PostgreSQL", "MySQL", "MongoDB", "Redis", "Cassandra"
-            ],
-            "devops": [
-                "Docker", "Kubernetes", "Terraform",
-                "CI/CD (GitHub Actions, Jenkins)"
-            ],
-            "cloud": [
-                "AWS", "GCP", "Azure (Fundamentals)"
-            ],
-            "ai_integration": [
-                "OpenAI APIs", "LangChain", "RAG Systems", "Vector Databases"
-            ],
-            "observability": [
-                "Prometheus", "Grafana", "ELK Stack"
-            ]
-        }
+## 👨‍💻 Professional Profile
 
-    def engineering_principles(self):
-        return [
-            "Scalability first",
-            "Reliability over complexity",
-            "Simplicity is a feature",
-            "Fail-safe system design",
-            "Performance is architecture-driven"
-        ]
+- 💼 Role: Senior Backend Engineer / System Architect  
+- 📅 Experience: 5+ Years (Backend & Distributed Systems)  
+- 🎯 Mission: Build scalable, reliable, and high-performance systems  
+- 🧠 Engineering Mindset: Architecture first, implementation second  
+- 🌍 Location: Iraq | Available for Remote Worldwide Work  
+- 🤝 Status: Open to Freelance & Full-Time Opportunities  
 
-    def mindset(self):
-        return {
-            "philosophy": "Great systems are designed, not improvised.",
-            "belief": "Code changes often, architecture lasts longer.",
-            "focus": "Building systems that survive scale and time"
-        }
+---
 
-    def contact(self):
-        return {
-            "email": "hussein.alzubaidi@engineer.com",
-            "linkedin": "linkedin.com/in/hussein-alzubaidi",
-            "github": "github.com/HusseinAlZubaidi7"
-        }
+## 🧬 Core Expertise
 
+### ⚙️ Backend Engineering
+FastAPI · Django · Spring Boot · Node.js · NestJS  
 
-# Initialize engineer profile
-engineer = HusseinAlZubaidi()
+### 🏗️ System Design
+Microservices Architecture · Event-Driven Systems · Distributed Systems  
 
-print("🚀 STATUS:", engineer.availability)
-print("🧠 CORE PHILOSOPHY:", engineer.mindset()["philosophy"])
+### 🗄️ Databases
+PostgreSQL · MySQL · MongoDB · Redis  
+
+### ☁️ DevOps & Infrastructure
+Docker · Kubernetes · CI/CD · GitHub Actions  
+
+### 🤖 AI Integration
+OpenAI APIs · LangChain · RAG Systems  
+
+### 📊 Observability
+Prometheus · Grafana · Logging & Monitoring Systems  
+
+---
+
+## 🧠 Engineering Principles
+
+- Simplicity is the foundation of scalability  
+- Reliability is not optional  
+- Design before implementation  
+- Systems must fail safely  
+- Performance is an architectural decision  
+
+---
+
+## 💡 Engineering Mindset
+
+> “Good systems are designed, not rushed.”  
+> “Code changes, architecture lasts.”  
+> “Scalability is built, not added later.”  
+
+---
+
+## 📬 Contact
+
+- 📧 Email: hussein.alzubaidi@engineer.com  
+- 💼 LinkedIn: linkedin.com/in/hussein-alzubaidi  
+- 🐙 GitHub: github.com/HusseinAlZubaidi7  
+
+---
