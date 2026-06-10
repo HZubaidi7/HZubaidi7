@@ -1,57 +1,85 @@
-# Hi there, I'm Hussein Al-Zubaidi 👋
+<h1 align="center">Hi 👋, I'm Hussein Al-Zubaidi</h1>
 
-## Software Engineer | Problem Solver | Lifelong Learner
+<h3 align="center">Software Engineer | Problem Solver | Tech Enthusiast</h3>
 
-- 🔭 Currently working on improving my software engineering skills and building real-world projects  
-- 🌱 Learning everything related to backend, frontend, and system design  
-- 👯 Looking to collaborate with other developers and open-source projects  
-- 🥅 2025 Goals: Build impactful projects and contribute more to GitHub  
-- ⚡ Fun fact: I enjoy drawing and playing musical instruments 🎸🥁  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hussainalzubaidi7&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+</p>
 
 ---
 
-### 💻 Connect with me:
-<!-- ضع روابطك هنا -->
-- GitHub:  
-- LinkedIn:  
-- Instagram / X:  
+## 🚀 About Me
+
+- 💻 Passionate Software Engineer building real-world systems  
+- 🧠 Focused on Backend, APIs, and System Design  
+- 🌱 Currently learning Advanced Software Architecture & AI Integration  
+- 🤝 Open to collaborating on innovative and open-source projects  
+- 🎯 2025 Goal: Build impactful products used by real users  
+- ⚡ Fun fact: I turn coffee ☕ into code 💻  
 
 ---
 
-### 🛠️ Languages and Tools:
-<!-- ضع أدواتك هنا -->
-- Python | JavaScript | TypeScript  
-- Node.js | Express | Next.js  
-- Git | GitHub | Linux  
-- MongoDB | MySQL  
+## 🛠️ Tech Stack
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</p>
 
 ---
 
-### 📺 Latest YouTube Videos:
-- [I stopped using terminal tabs](https://www.youtube.com/watch?v=sZDjE-9esEg)  
-- [Cut Next.js Load Times by 85%](https://www.youtube.com/shorts/gSsy7ypKqFY)  
-- [Generative UI is the future of AI](https://www.youtube.com/watch?v=goxnUKwwf-I)  
-- [Deno 2.0 Crash Course](https://www.youtube.com/watch?v=7Yo3eO-jitQ)  
-- [Stop Googling | Start Building](https://www.youtube.com/watch?v=bvCYpVqkn54)  
+## 📊 GitHub Stats
 
-➡️ [More videos...](https://youtube.com/codestackr)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hussainalzubaidi7&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainalzubaidi7&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
----
-
-### 📕 Latest Blog Posts:
-- [It’s Happening! Vercel 🤝 MongoDB](https://dev.to/mongodb/its-happening-vercel-mongodb-4527)  
-- [OpenAI Agents SDK Thoughts](https://dev.to/mongodb/the-openai-agents-sdk-for-typescript-is-missing-something-and-thats-ok-1dco)  
-- [Building a Chat Application](https://dev.to/mongodb/building-a-chat-application-with-mongodb-memory-provider-for-vercel-ai-sdk-56ap)  
-- [Prisma & MongoDB Guide](https://dev.to/mongodb/how-prisma-transforms-mongodb-development-34bk)  
-- [Top Tips for Prisma](https://dev.to/mongodb/top-8-tips-for-using-prisma-with-mongodb-582f)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussainalzubaidi7&theme=tokyonight" />
+</p>
 
 ---
 
-### 🚀 GitHub Activity
-1. 🎉 Merged PR [#15](https://github.com/rimelabs/rime-livekit-agents/pull/15)  
-2. 🎉 Merged PR [#13](https://github.com/rimelabs/rime-livekit-agents/pull/13)  
-3. 💪 Opened PR [#15](https://github.com/rimelabs/rime-livekit-agents/pull/15)  
-4. 🗣 Commented on Next.js PR  
-5. 🗣 Commented on Next.js discussion  
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hussainalzubaidi7&theme=tokyo-night" />
+</p>
 
 ---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/hussainalzubaidi7">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💡 Quote
+
+<p align="center">
+  <i>"Code is not just syntax, it's a way of solving real-world problems."</i>
+</p>
+
+---
+
+<p align="center">🔥 Built with passion by Hussein Al-Zubaidi 🔥</p>
