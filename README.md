@@ -1,15 +1,10 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Hussein%20Al-Zubaidi&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=⛧%20Software%20Architect%20%7C%20Backend%20Engineer%20%7C%20AI%20Builder%20⛧&descSize=18&descAlignY=58)](https://github.com/HusseinAlZubaidi7)
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=%3E+sudo+whoami;Hussein+Al-Zubaidi;%3E+cat+/etc/role;Senior+Software+Engineer;%3E+echo+%24MISSION;Engineering+the+unbreakable" alt="Typing SVG" />
-</p>
-
-<!-- ============================================================ -->
-<!--                           LOGO                               -->
-<!-- ============================================================ -->
+<!-- ============================================ -->
+<!--              SUPER LOGO - HUSSEIN             -->
+<!-- ============================================ -->
 
 <p align="center">
   <samp>
+    <br/>
     <br/>
     ██╗  ██╗██╗   ██╗███████╗███████╗███████╗██╗███╗   ██╗
     ██║  ██║██║   ██║██╔════╝██╔════╝██╔════╝██║████╗  ██║
@@ -18,20 +13,32 @@
     ██║  ██║╚██████╔╝███████║███████║███████╗██║██║ ╚████║
     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝
     <br/>
-    ┌─────────────────────────────────────────────────────────────┐
-    │  < / >  SOFTWARE ENGINEER  < / >                            │
-    │  ⎈ System Architect                                         │
-    │  ⎆ Backend Specialist                                       │
-    │  ⎇ AI Builder                                               │
-    │  ⚡ Performance Obsessed                                     │
-    └─────────────────────────────────────────────────────────────┘
+    ╔═══════════════════════════════════════════════════════════════════╗
+    ║                                                                   ║
+    ║                    </> HUSSEIN AL-ZUBAIDI </>                      ║
+    ║                                                                   ║
+    ║                      ░░░░░ SOFTWARE ENGINEER ░░░░░                 ║
+    ║                                                                   ║
+    ║                 ⎈ System Architect | Backend Specialist           ║
+    ║                 ⎆ API Craftsman     | AI Builder                  ║
+    ║                                                                   ║
+    ╚═══════════════════════════════════════════════════════════════════╝
+    <br/>
     <br/>
   </samp>
 </p>
 
-<!-- ============================================================ -->
-<!--                     TECH BADGES ROW 1                        -->
-<!-- ============================================================ -->
+<!-- ============================================ -->
+<!--              TYPING ANIMATION                 -->
+<!-- ============================================ -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&height=60&lines=%3E+sudo+whoami;Hussein+Al-Zubaidi;%3E+cat+/etc/role;Senior+Software+Engineer;%3E+echo+%24MISSION;Engineering+the+unbreakable" alt="Typing SVG" />
+</p>
+
+<!-- ============================================ -->
+<!--           TECH STACK BADGES - ROW 1           -->
+<!-- ============================================ -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
@@ -40,13 +47,13 @@
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
-<!-- ============================================================ -->
-<!--                     TECH BADGES ROW 2                        -->
-<!-- ============================================================ -->
+<!-- ============================================ -->
+<!--           TECH STACK BADGES - ROW 2           -->
+<!-- ============================================ -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -59,9 +66,9 @@
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </p>
 
-<!-- ============================================================ -->
-<!--                     TECH BADGES ROW 3                        -->
-<!-- ============================================================ -->
+<!-- ============================================ -->
+<!--           TECH STACK BADGES - ROW 3           -->
+<!-- ============================================ -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
@@ -74,9 +81,9 @@
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-<!-- ============================================================ -->
-<!--                     TECH BADGES ROW 4                        -->
-<!-- ============================================================ -->
+<!-- ============================================ -->
+<!--           TECH STACK BADGES - ROW 4           -->
+<!-- ============================================ -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -85,11 +92,13 @@
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 </p>
 
-<!-- ============================================================ -->
-<!--                         ABOUT ME                             -->
-<!-- ============================================================ -->
+<!-- ============================================ -->
+<!--                  ABOUT SECTION                -->
+<!-- ============================================ -->
 
 ## 🧠 المهندس حسين الزبيدي
 
@@ -100,8 +109,8 @@ class HusseinAlZubaidi(SoftwareEngineer):
         self.experience = "5+ years"
         self.mission = "Build unbreakable, scalable systems"
         self.creed = "Code is temporary, architecture is forever"
-        self.location = "Iraq / Remote"
-        self.availability = "Freelance & Full-time"
+        self.location = "Iraq / Remote Worldwide"
+        self.availability = "✅ Available for freelance & full-time"
     
     def skills(self):
         return {
@@ -111,15 +120,11 @@ class HusseinAlZubaidi(SoftwareEngineer):
             "devops": ["Docker", "Kubernetes", "Terraform", "GitHub Actions", "Jenkins"],
             "cloud": ["AWS", "GCP", "Azure"],
             "ai": ["OpenAI API", "LangChain", "Vector DBs", "RAG", "LLMs"],
-            "monitoring": ["Prometheus", "Grafana", "ELK Stack"],
-            "message_queue": ["Kafka", "RabbitMQ", "Redis Pub/Sub"]
+            "monitoring": ["Prometheus", "Grafana", "ELK Stack"]
         }
     
-    def daily_quote(self):
+    def philosophy(self):
         return "If it doesn't scale horizontally, it doesn't scale at all."
-    
-    def status(self):
-        return "🟢 Available for freelance & consulting"
     
     def contact(self):
         return {
@@ -128,6 +133,7 @@ class HusseinAlZubaidi(SoftwareEngineer):
             "github": "github.com/HusseinAlZubaidi7"
         }
 
-# إنشاء كائن المهندس
+# Initialize engineer
 hussein = HusseinAlZubaidi()
-print(hussein.daily_quote())
+print(f"Status: {hussein.availability}")
+print(f"Philosophy: {hussein.philosophy()}")
