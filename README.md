@@ -1,29 +1,24 @@
 <!-- ============================================ -->
-<!--              SUPER LOGO - HUSSEIN             -->
+<!--              IMAGE + LOGO SECTION             -->
 <!-- ============================================ -->
+
+<p align="center">
+  <img src="photo_5278770112984981033_y.jpg" alt="Hussein Al-Zubaidi Logo" width="400" />
+</p>
 
 <p align="center">
   <samp>
     <br/>
-    <br/>
-    ██╗  ██╗██╗   ██╗███████╗███████╗███████╗██╗███╗   ██╗
-    ██║  ██║██║   ██║██╔════╝██╔════╝██╔════╝██║████╗  ██║
-    ███████║██║   ██║███████╗███████╗█████╗  ██║██╔██╗ ██║
-    ██╔══██║██║   ██║╚════██║╚════██║██╔══╝  ██║██║╚██╗██║
-    ██║  ██║╚██████╔╝███████║███████║███████╗██║██║ ╚████║
-    ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝
-    <br/>
-    ╔═══════════════════════════════════════════════════════════════════╗
-    ║                                                                   ║
-    ║                    </> HUSSEIN AL-ZUBAIDI </>                      ║
-    ║                                                                   ║
-    ║                      ░░░░░ SOFTWARE ENGINEER ░░░░░                 ║
-    ║                                                                   ║
-    ║                 ⎈ System Architect | Backend Specialist           ║
-    ║                 ⎆ API Craftsman     | AI Builder                  ║
-    ║                                                                   ║
-    ╚═══════════════════════════════════════════════════════════════════╝
-    <br/>
+    ╔════════════════════════════════════════════════════════════════════════════╗
+    ║                                                                            ║
+    ║                         </> HUSSEIN AL-ZUBAIDI </>                          ║
+    ║                                                                            ║
+    ║                           ░░░░░ SOFTWARE ENGINEER ░░░░░                      ║
+    ║                                                                            ║
+    ║                    ⎈ System Architect | Backend Specialist                 ║
+    ║                    ⎆ API Craftsman     | AI Builder                        ║
+    ║                                                                            ║
+    ╚════════════════════════════════════════════════════════════════════════════╝
     <br/>
   </samp>
 </p>
@@ -33,7 +28,7 @@
 <!-- ============================================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&height=60&lines=%3E+sudo+whoami;Hussein+Al-Zubaidi;%3E+cat+/etc/role;Senior+Software+Engineer;%3E+echo+%24MISSION;Engineering+the+unbreakable" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=60&lines=%3E+sudo+whoami;Hussein+Al-Zubaidi;%3E+cat+/etc/role;Senior+Software+Engineer;%3E+echo+%24MISSION;Engineering+the+unbreakable" alt="Typing SVG" />
 </p>
 
 <!-- ============================================ -->
